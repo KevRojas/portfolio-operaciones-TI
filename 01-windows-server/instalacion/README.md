@@ -15,7 +15,7 @@ servidor de laboratorio.
 
 | Recurso | Configuración |
 |---|---|
-| Nombre | Administrador |
+| Nombre | SERVER_OFICIAL |
 | Sistema | Windows Server 2019 |
 | CPU | 1 vCPU |
 | RAM | 2 GB |
