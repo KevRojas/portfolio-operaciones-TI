@@ -9,7 +9,6 @@ servicios y monitoreo.
 ## Tecnologías
 
 - VirtualBox
-- CentOS
 - Windows Server
 - Windows 10
 - Windows 7
@@ -18,4 +17,6 @@ servicios y monitoreo.
 - DHCP
 - GPO
 - IIS
+- CentOS
+- Ubuntu
 
