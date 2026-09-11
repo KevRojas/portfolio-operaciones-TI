@@ -90,7 +90,7 @@ página de inicio del sitio publicado.
 
 <img width="1249" height="878" alt="06-IIS-Chrism" src="https://github.com/user-attachments/assets/5076708a-cf59-4d6e-b7ff-b3810667b794" />
 
-# Servicio FTP
+## 3. Servicio FTP
 
 ## Objetivo
 Instalar y configurar el rol de servidor FTP (dentro de IIS)
