@@ -1,4 +1,4 @@
-# Servicios DHCP e IIS
+# Servicios DHCP - IIS - FTP
 
 ## 1. Servicio DHCP
 
@@ -89,3 +89,43 @@ página de inicio del sitio publicado.
 <img width="1225" height="905" alt="05-IIS-Mobile" src="https://github.com/user-attachments/assets/3fef7c61-d94b-4cb3-abe0-86673cbf5f59" />
 
 <img width="1249" height="878" alt="06-IIS-Chrism" src="https://github.com/user-attachments/assets/5076708a-cf59-4d6e-b7ff-b3810667b794" />
+
+# Servicio FTP
+
+## Objetivo
+Instalar y configurar el rol de servidor FTP (dentro de IIS)
+para permitir la transferencia de archivos entre el servidor
+y los clientes de la red.
+
+## Configuración
+
+| Parámetro | Valor |
+|---|---|
+| Nombre del sitio FTP | FTP |
+| Puerto | 21 |
+| Ruta física | C:\FTP |
+| Binding / IP | 192.168.20.7:21 |
+| Autenticación | Básica |
+| Autorización | Usuario específico: Lectura/Escritura |
+| Aislamiento de usuario | Sin aislamiento / Directorios de usuario |
+| Reglas de firewall | Puerto 21 y rango de puertos pasivos habilitados |
+
+## Comprobación
+
+Se ingresó usuario y contraseña, y se realizó una prueba para 
+confirmar la conexión de archivos subidos y creados
+en FTP.
+
+También se pudo verificar el acceso desde el navegador:
+
+```
+ftp://192.168.20.2
+```
+
+## Evidencia
+
+<img width="1263" height="823" alt="03-FTP-Cliente_Web" src="https://github.com/user-attachments/assets/167134b0-d166-4725-a403-636be9ffe47c" />
+
+<img width="1275" height="834" alt="03-FTP" src="https://github.com/user-attachments/assets/440ded9a-cd3d-4e91-9bcc-ea08f8b54349" />
+
+<img width="1261" height="824" alt="03-FTP-Cliente" src="https://github.com/user-attachments/assets/8c943984-5852-4012-a7dd-3e419a3b2f41" />
