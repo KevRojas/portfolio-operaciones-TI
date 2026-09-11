@@ -18,5 +18,5 @@ la conectividad del servidor.
 Se ejecutó:
 
 ```cmd
-ipconfig /all
+ping 192.168.20.2
 ```
