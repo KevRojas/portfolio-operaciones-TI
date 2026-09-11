@@ -111,3 +111,5 @@ GRUPODOS.EDU.PE
 ```
 
 <img width="1097" height="826" alt="05-LoginDominio" src="https://github.com/user-attachments/assets/f5e88fc5-cac6-44cb-9dfe-89f1315419ec" />
+
+<img width="916" height="477" alt="06-Comprobación" src="https://github.com/user-attachments/assets/ab405259-2d87-41d4-b96c-dd0d14d99c01" />
