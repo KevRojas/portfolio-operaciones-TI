@@ -1,21 +1,22 @@
-# Laboratorio de Operaciones TI
+# Configuración de red
 
 ## Objetivo
 
-Implementar un entorno virtual para practicas en Linux y de administración
-de sistemas Windows como gestión de usuarios, redes,
-servicios y monitoreo.
+Configurar una dirección IP estática y verificar
+la conectividad del servidor.
 
-## Tecnologías
+## Configuración
 
-- VirtualBox
-- CentOS
-- Windows Server
-- Windows 10
-- Windows 7
-- Active Directory
-- DNS
-- DHCP
-- GPO
-- IIS
+| Parámetro | Valor |
+|---|---|
+| IP | 192.168.20.2 |
+| Máscara | 255.255.255.0 |
+| DNS | 127.0.0.1 |
 
+## Comprobación
+
+Se ejecutó:
+
+```cmd
+ipconfig /all
+```
