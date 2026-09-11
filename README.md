@@ -2,20 +2,19 @@
 
 ## Objetivo
 
-Implementar un entorno virtual para practicar administración
-de sistemas Windows y Linux, gestión de usuarios, redes,
-servicios, monitoreo y resolución de incidencias.
+Implementar un entorno virtual para practicas en Linux y de administración
+de sistemas Windows como gestión de usuarios, redes,
+servicios y monitoreo.
 
 ## Tecnologías
 
 - VirtualBox
+- CentOS
 - Windows Server
-- Windows 11
-- Ubuntu Server
+- Windows 10
+- Windows 7
 - Active Directory
 - DNS
-- GPO
-- PowerShell
-- Zabbix
-- SSH
+- DHCP
+- IIS
 
