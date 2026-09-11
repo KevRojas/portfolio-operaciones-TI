@@ -44,6 +44,12 @@ Se configuró el nombre del servidor:
 
 ```text
 Administrador
+```
 
+### 4. Configuración de IP
+
+Se configuró una dirección IPv4 estática para el servidor.
+
+<img width="1225" height="912" alt="03-ip-estatica" src="https://github.com/user-attachments/assets/32fde170-c353-436c-8b12-7d9d37674be7" />
 
 
