@@ -116,15 +116,15 @@ Se ingresó usuario y contraseña, y se realizó una prueba para
 confirmar la conexión de archivos subidos y creados
 en FTP.
 
-También se pudo verificar el acceso desde el navegador:
+También se pudo verificar el acceso desde el navegador del cliente:
+
+<img width="1263" height="823" alt="03-FTP-Cliente_Web" src="https://github.com/user-attachments/assets/7ded69cb-b182-4711-a817-78ce66540e44" />
 
 ```
 ftp://192.168.20.2
 ```
 
 ## Evidencia
-
-<img width="1263" height="823" alt="03-FTP-Cliente_Web" src="https://github.com/user-attachments/assets/167134b0-d166-4725-a403-636be9ffe47c" />
 
 <img width="1275" height="834" alt="03-FTP" src="https://github.com/user-attachments/assets/440ded9a-cd3d-4e91-9bcc-ea08f8b54349" />
 
