@@ -1,2 +1,21 @@
-# portfolio-operaciones-TI
-Implementación de un entorno virtual de laboratorio para practica de administración, soporte y monitoreo de sistemas Windows y Linux.
+# Laboratorio de Operaciones TI
+
+## Objetivo
+
+Implementar un entorno virtual para practicar administración
+de sistemas Windows y Linux, gestión de usuarios, redes,
+servicios, monitoreo y resolución de incidencias.
+
+## Tecnologías
+
+- VirtualBox
+- Windows Server
+- Windows 11
+- Ubuntu Server
+- Active Directory
+- DNS
+- GPO
+- PowerShell
+- Zabbix
+- SSH
+
