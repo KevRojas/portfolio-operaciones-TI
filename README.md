@@ -16,5 +16,6 @@ servicios y monitoreo.
 - Active Directory
 - DNS
 - DHCP
+- GPO
 - IIS
 
