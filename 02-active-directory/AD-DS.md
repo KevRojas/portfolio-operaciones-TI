@@ -50,8 +50,6 @@ grupos, dominios, políticas y resolución de incidencias.
 ```
 
 
-# 1. instalacion-ad-ds/
-
 # Instalación de Active Directory Domain Services
 
 ## Objetivo
@@ -183,7 +181,7 @@ en Active Directory y la asignación de usuarios como miembros.
 | CIBERTEC_LIMA | BREÑA - CALLAO - INDEPENDENCIA - LC - SJL|
 
 
-## 1. Creación de grupo
+## Creación de grupo
 
 Se creó el grupo:
 
@@ -234,7 +232,7 @@ Para este laboratorio se configuraron las siguientes políticas:
 |---|---|
 | GPO upn | Quitar y evitar el acceso a los comandos Apagar, Reiniciar, Suspender e Hibernar. |
 
-# 1. Creación de una GPO
+# Creación de una GPO
 
 ## Objetivo
 
@@ -244,7 +242,7 @@ Crear una nueva GPO y vincularla a una Unidad Organizativa.
 
 ## Procedimiento
 
-1. Abrir **Group Policy Management**.
+1. Abrir Herramientas y luego **Administración de directivas de grupo**.
 2. Seleccionar el dominio `GRUPODOS`.
 3. Seleccionar la OU correspondiente.
 4. Crear una nueva GPO.
