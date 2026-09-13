@@ -29,8 +29,15 @@ en Windows Server dentro de un entorno de Active Directory.
 Se verificó la existencia de la zona DNS correspondiente
 al dominio:
 
+<img width="967" height="750" alt="02_ClientesDNS" src="https://github.com/user-attachments/assets/249c99ab-bffa-4586-a909-1530efa311fb" />
+
 <img width="1128" height="816" alt="01-DNS" src="https://github.com/user-attachments/assets/0316681f-68dc-4f68-afb2-f4b25c32eb72" />
+
+## Cliente W10
 
 <img width="1167" height="675" alt="03-ClienteW10" src="https://github.com/user-attachments/assets/8da142eb-ef53-4739-930a-5f526d3be522" />
 
+## Cliente W7
+
 <img width="1161" height="813" alt="04-ClienteW7" src="https://github.com/user-attachments/assets/99ac03c4-4289-4b37-a87a-55d227ef4329" />
+
