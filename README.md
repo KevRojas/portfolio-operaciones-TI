@@ -18,5 +18,5 @@ servicios y monitoreo.
 - GPO
 - IIS
 - CentOS
-- Ubuntu
+- Rocky Linux
 
